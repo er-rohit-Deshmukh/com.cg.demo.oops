@@ -6,7 +6,7 @@ package com.cg.demo.Ex;
 /**
  * @author rvijayde
  *
- */
+ */   // array program
 public class ArrayOutOfBondException 
 {
 
